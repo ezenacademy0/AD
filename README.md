@@ -18,6 +18,6 @@ All images were checked for PNG integrity, 1200 × 1600 RGBA output, transparenc
 
 ## Additional front view: camera_sample2
 
-50 of 100 additional transparent PNGs are available in the [`camera_sample2`](camera_sample2/) folder, numbered `001.png` through `050.png`.
+75 of 100 additional transparent PNGs are available in the [`camera_sample2`](camera_sample2/) folder, numbered `001.png` through `075.png`.
 
 These images use the fixed `camera_sample2` front view, with the same 1200 × 1600 RGBA format, consistent lighting and combination order.
