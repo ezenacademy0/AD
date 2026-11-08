@@ -1,6 +1,8 @@
 # KIRSH HOME Mix & Match
 
-100 transparent PNG product images, numbered `001.png` through `100.png`.
+Progress: 15 of 100 product images uploaded and verified (`001.png` through `015.png`).
+
+Planned delivery: 100 transparent PNG product images, numbered `001.png` through `100.png`.
 
 - Resolution: 1200 × 1600 px (3:4)
 - Format: RGBA PNG with transparent background
