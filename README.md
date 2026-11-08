@@ -1,6 +1,6 @@
 # KIRSH HOME Mix & Match
 
-Progress: 65 of 100 product images uploaded and verified (`001.png` through `065.png`).
+Progress: 83 of 100 product images uploaded and verified (`001.png` through `083.png`).
 
 Planned delivery: 100 transparent PNG product images, numbered `001.png` through `100.png`.
 
