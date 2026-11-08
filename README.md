@@ -15,3 +15,9 @@ Each image contains one complete bed. The showroom floor and neighboring objects
 `SHA256SUMS` provides checksums for the 100 PNGs.
 
 All images were checked for PNG integrity, 1200 × 1600 RGBA output, transparency, complete framing and distinct image content.
+
+## Additional front view: camera_sample2
+
+25 of 100 additional transparent PNGs are available in the [`camera_sample2`](camera_sample2/) folder, numbered `001.png` through `025.png`.
+
+These images use the fixed `camera_sample2` front view, with the same 1200 × 1600 RGBA format, consistent lighting and combination order.
